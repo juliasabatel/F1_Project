@@ -6,6 +6,10 @@ Abu Dhabi 2021, last race of the season. Vestappen and Hamilton, Formula 1 drive
 
 This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, both external such as driver, car, position or result information, as well as detailed data of the fight between Hamilton and Verstappen, specifically on their last lap, by printing the telemetry of both cars.
 
+
+![Verstappen-Hamilton-Abu-Dhabi-2021](https://user-images.githubusercontent.com/29893993/201915945-c2c742b9-5605-42ea-81e3-2e5ff13a78e1.jpg)
+
+
 # PREQUISITES
 
 ⭐️ Installation of F1 Race Traces database 
