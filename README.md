@@ -70,7 +70,7 @@ Este proyecto de ETL analiza los datos más relevantes de la carrera Abu Dhabi 2
 
 # 🌪 Study of the fastest lap in Qualy 
 
-This graph represents the values taken by the drivers on their fastest lap in Qualy. You can see how Verstappen is the one who leads the ranking with 1:22.109 in time while Hamilton follows with 1:22.480 in time.
+This graph represents the values taken by the drivers on their fastest lap in Qualy. You can see how Verstappen is the one who leads the ranking with 1:22.109 in time while Hamilton follows with 1:22.480 in time. Since it was Verstappen who did the fastest lap, we decided to take a closer look at this lap in qualifying.
 
 
 <img width="655" alt="Fastest_lap_qualy" src="https://user-images.githubusercontent.com/29893993/201777933-fcaf0547-9dfa-4083-8a02-8eb8a85caeb5.png">
