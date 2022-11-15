@@ -73,7 +73,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-🌪 Visualization of the fastest lap in Qualy (Verstappen)
+# 🌪 Visualization of the fastest lap in Qualy (Verstappen)
 
 
 
@@ -83,7 +83,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-🏎 Visualization of the average fast lap speed comparison between Hamilton and Verstappen in Qualy
+# 🏎 Visualization of the average fast lap speed comparison between Hamilton and Verstappen in Qualy
 
 
 
@@ -92,8 +92,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-
-🏁 Visualization of the fastest lap of the race (Verstappen)
+ # 🏁 Visualization of the fastest lap of the race (Verstappen)
 
 
 
@@ -103,7 +102,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-⚡️ Visualization of average fast lap speed comparison between Hamilton and Verstappen in race
+# ⚡️ Visualization of average fast lap speed comparison between Hamilton and Verstappen in race
 
 
 
@@ -113,7 +112,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-👀 Visualization of lap comparison between Verstappen and Hamilton
+# 👀 Visualization of lap comparison between Verstappen and Hamilton
 
 
 
@@ -123,7 +122,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-✨ Display comparison of laps between Hamilton and Sainz
+# ✨ Display comparison of laps between Hamilton and Sainz
 
 
 
@@ -132,7 +131,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-🌪 Hamilton fast lap visualization
+# 🌪 Hamilton fast lap visualization
 
 
 
@@ -142,7 +141,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-🌪 Verstappen fast lap visualization
+# 🌪 Verstappen fast lap visualization
 
 
 
@@ -152,7 +151,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-🔥 Alonso fast lap visualization
+# 🔥 Alonso fast lap visualization
 
 
 
@@ -162,7 +161,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-🌡 Sainz fast lap visualization
+# 🌡 Sainz fast lap visualization
 
 
 
@@ -172,7 +171,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-🏁 Visualization of the first Sting comparison between Hamilton and Verstappen
+# 🏁 Visualization of the first Sting comparison between Hamilton and Verstappen
 
 
 
@@ -182,7 +181,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
 
 
 
-🏎 Visualization of the comparison of traces, brakes and acceleration between Hamilton and Verstappen on the last lap
+# 🏎 Visualization of the comparison of traces, brakes and acceleration between Hamilton and Verstappen on the last lap
 
 
 <img width="443" alt="Captura de Pantalla 2022-11-14 a las 23 23 26" src="https://user-images.githubusercontent.com/29893993/201780690-8c66cafb-90b1-46e1-bca2-9dd0914a9b40.png">
