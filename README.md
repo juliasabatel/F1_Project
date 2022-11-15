@@ -2,12 +2,17 @@
 
 # ABOUT
 
-Abu Dhabi 2021, last race of the season. Vestappen and Hamilton, Formula 1 drivers are fighting for the title of World Champion. They face each other at the Yas Marina circuit, both with 369.5 points. Hamilton is fighting for his eighth world championship title, surpassing Michael Schumacher's record number of victories, while Max Verstappen is fighting for his first world championship title.  There can only be one winner, which will be decided on the last lap of the final circuit of the season.
+🇬🇧Abu Dhabi 2021, last race of the season. Vestappen and Hamilton, Formula 1 drivers are fighting for the title of World Champion. They face each other at the Yas Marina circuit, both with 369.5 points. Hamilton is fighting for his eighth world championship title, surpassing Michael Schumacher's record number of victories, while Max Verstappen is fighting for his first world championship title.  There can only be one winner, which will be decided on the last lap of the final circuit of the season.
 
 This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, both external such as driver, car, position or result information, as well as detailed data of the fight between Hamilton and Verstappen, specifically on their last lap, by printing the telemetry of both cars.
 
 
 ![Verstappen-Hamilton-Abu-Dhabi-2021](https://user-images.githubusercontent.com/29893993/201915945-c2c742b9-5605-42ea-81e3-2e5ff13a78e1.jpg)
+
+
+🇪🇸Abu Dhabi 2021, última carrera de la temporada. Vestappen y Hamilon, pilotos de Formula 1 luchan por el título de Campeón del mundo. Se enfrentan en el circuito de Yas Marina, ambos con 369,5 puntos. Hamilton lucha por su octavo título de campeón del mundo, superando el récord de victorias de Michael Schumacher, mientras que Max Verstappen pelea por su primer título de Campeón del mundo.  Sólo puede haber un ganador, el cual se decidirá en la última vuelta del último circuito de la temporada.
+
+Este proyecto de ETL analiza los datos más relevantes de la carrera Abu Dhabi 2021, tanto externos como la información del piloto, coche, posición o resultados, como datos detallados de la lucha entre Hamilton y Verstappen, específicamente en su última vuelta, mediante la impresión de la telemetría de ambos coches.
 
 
 # PREQUISITES
