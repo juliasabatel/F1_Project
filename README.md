@@ -80,7 +80,8 @@ This graph represents the values taken by the drivers on their fastest lap in Qu
 
 # 🌪 Visualization of the fastest lap in Qualy (Verstappen)
 
-
+This is Verstappen's fastest lap in Qualy at the Abu Dhabi 2021 circuit in which we analyze using a color scale, with red being maximum speed, followed by less to more speed with colors from cool to warm.
+It can be seen how the speed has been maximum on the straights while in the curves it has been reduced.
 
 
 <img width="419" alt="fastes_lao_ver_qualy" src="https://user-images.githubusercontent.com/29893993/201778300-8755fe63-2da9-4315-bbf0-93a1ccdb2e95.png">
