@@ -63,7 +63,7 @@ This ETL project analyzes the most relevant data of the Abu Dhabi 2021 race, bot
  # TELEMETRY ANALYSIS
  
 
-🌪 Study of the fastest lap in Qualy 
+# 🌪 Study of the fastest lap in Qualy 
 
 
 
