@@ -111,7 +111,7 @@ The legend of this graph is from lower speed to cooler tones, from higher speed 
 
 # ⚡️ Visualization of average fast lap speed comparison between Hamilton and Verstappen in race
 
-
+This graph belongs to the day of the race, Sunday. In which we see how Verstappen, in blue color improves his time in the corners, this will be better represented in the telemetry analysis of the last lap in which we see how Hamilton becomes faster in the straights while Verstappen accelerates before Hamilton and brakes after him.
 
 
 <img width="454" alt="ver_ham_fast_lap_race" src="https://user-images.githubusercontent.com/29893993/201779224-f48f087c-2560-4766-8b33-1ca33a32568c.png">
