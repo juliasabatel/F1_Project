@@ -89,8 +89,10 @@ It can be seen how the speed has been maximum on the straights while in the curv
 
 
 
-# 🏎 Visualization of the average fast lap speed comparison between Hamilton and Verstappen in Qualy
+# 🏎 Visualization of the average speed comparison between Hamilton and Verstappen in Qualy
 
+
+Hamilton is the green color and Verstappen the blue color.  Representation of the Abu Dhabi circuit in which you can see how Hamilton is much faster in curves while Verstappen is much faster in straights.
 
 
 
