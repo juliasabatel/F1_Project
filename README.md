@@ -121,7 +121,7 @@ This graph belongs to the day of the race, Sunday. In which we see how Verstappe
 
 # 👀 Visualization of lap comparison between Verstappen and Hamilton
 
-
+Here we can see represented on the X axis the laps by Hamilton (blue color) and Verstappen (red color) and on the Y axis the race time. We can highlight the jump in the graph representing the exit of the safty car that has not counted as race time.
 
 
 <img width="468" alt="vueltas_ham_ver" src="https://user-images.githubusercontent.com/29893993/201779513-1dd3149c-6620-4678-8aa8-8243b01ad8ce.png">
