@@ -200,3 +200,12 @@ In the first one, we can see the speed, how Hamilton is totally above Verstappen
 
 <img width="443" alt="Captura de Pantalla 2022-11-14 a las 23 23 26" src="https://user-images.githubusercontent.com/29893993/201780690-8c66cafb-90b1-46e1-bca2-9dd0914a9b40.png">
 
+
+
+
+
+
+
+
+
+
