@@ -181,7 +181,7 @@ Carlos Sainz finished in third place, so we wanted to study the difference per l
 
 # 🏁 Visualization of the first Sting comparison between Hamilton and Verstappen
 
-
+We wanted to analyze the first sting between Hamilton (pink color) and Verstappen (green color), watching their progressive evolution.
 
 
 <img width="484" alt="sting" src="https://user-images.githubusercontent.com/29893993/201780378-9223cad4-8988-4734-a877-3bc606754df5.png">
