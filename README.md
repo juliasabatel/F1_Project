@@ -103,6 +103,7 @@ Hamilton is the green color and Verstappen the blue color.  Representation of th
  # 🏁 Visualization of the fastest lap of the race (Verstappen)
 
 This graph shows Verstappen's race fastest lap on race day and you can see how on Sunday he improves his cornering times. This can be better seen in the average speed comparison graph between VER and HAM.
+The legend of this graph is from lower speed to cooler tones, from higher speed to warmer tones.
 
 <img width="423" alt="fastest_lap_ver_race" src="https://user-images.githubusercontent.com/29893993/202122048-595b4e24-3487-41d7-8b3a-3fcccc4942b7.png">
 
