@@ -131,6 +131,7 @@ Here we can see represented on the X axis the laps by Hamilton (blue color) and 
 
 # ✨ Display comparison of laps between Hamilton and Sainz
 
+Carlos Sainz finished in third place, so we wanted to study the difference per lap between both drivers in order to establish a comparison between Vestappen (1st place) and Hamilton (2nd place) and between Hamilton and Carlos Sainz (3rd place).
 
 
 <img width="468" alt="ham_sainz_laps" src="https://user-images.githubusercontent.com/29893993/201779646-04075dfb-4c55-4ee6-bbf0-00c02f5f70b9.png">
