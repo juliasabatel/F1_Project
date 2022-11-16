@@ -111,7 +111,7 @@ The legend of this graph is from lower speed to cooler tones, from higher speed 
 
 # ⚡️ Visualization of average fast lap speed comparison between Hamilton and Verstappen in race
 
-This graph belongs to the day of the race, Sunday. In which we see how Verstappen, in blue color improves his time in the corners, this will be better represented in the telemetry analysis of the last lap in which we see how Hamilton becomes faster in the straights while Verstappen accelerates before Hamilton and brakes after him.
+This graph belongs to the day of the race, Sunday. In which we see how Verstappen, in blue color improves his time in the corners, this will be better represented in the telemetry analysis of the last lap in which we see how Hamilton becomes faster in the straights while Verstappen accelerates before Hamilton and brakes before him.
 
 
 <img width="454" alt="ver_ham_fast_lap_race" src="https://user-images.githubusercontent.com/29893993/201779224-f48f087c-2560-4766-8b33-1ca33a32568c.png">
@@ -190,6 +190,12 @@ We wanted to analyze the first sting between Hamilton (pink color) and Verstappe
 
 
 # 🏎 Visualization of the comparison of traces, brakes and acceleration between Hamilton and Verstappen on the last lap
+
+
+
+Graph analyzing the telemetry of Hamilton's car (green color) and Verstappen's car (pink color). 
+In the first one, we can see the speed, how Hamilton is totally above Verstappen while Verstappen has an earlier braking than Hamilton (this we can see in the second graph; Brake). Finally we can see how in the last graph, acceleration in which Verstappen accelerates before Hamilton.
+
 
 
 <img width="443" alt="Captura de Pantalla 2022-11-14 a las 23 23 26" src="https://user-images.githubusercontent.com/29893993/201780690-8c66cafb-90b1-46e1-bca2-9dd0914a9b40.png">
