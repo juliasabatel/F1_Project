@@ -169,7 +169,7 @@ Carlos Sainz finished in third place, so we wanted to study the difference per l
 
 
 
-# 🌡 Sainz fast lap visualization
+# 🌶 Sainz fast lap visualization
 
 
 
